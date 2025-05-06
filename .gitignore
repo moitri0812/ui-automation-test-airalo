@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Playwright test results and reports
+tests/
+playwright-report/
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
